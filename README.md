@@ -1,2 +1,2 @@
 # Functional programming
- This is the programs i made in functional programming course
+ These are the programs i made in functional programming course
