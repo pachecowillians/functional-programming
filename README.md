@@ -9,5 +9,6 @@
 
  Tools used
  - Python
+ - Jupyter Notebook
  - Matplotlib
  
